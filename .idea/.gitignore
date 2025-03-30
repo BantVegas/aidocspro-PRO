@@ -15,3 +15,5 @@ src/main/resources/tessdata/osd.traineddata
 src/main/resources/tessdata/equ.traineddata
 src/main/resources/tessdata/chi_sim.traineddata
 
+echo ".idea/" >> .gitignore
+git rm -r --cached .idea/
